@@ -1,6 +1,6 @@
 # HUGGIE
 
-<img src="./042.jpg" width="100%" alt=" 042 ">
+<img src="./042.png" width="100%" alt=" 042 ">
 
 접근성
 
