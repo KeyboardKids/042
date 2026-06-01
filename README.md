@@ -26,4 +26,4 @@
 ---
 
 ## 🔗 4. 우리 함께 만나러 가요 (라이브 데모)
-- [ 실제 반응형 웹 프로필 확인하기](https://huggie42.github.web.html/)
+- [ 실제 반응형 웹 프로필 확인하기](https://github.com/KeyboardKids/042/blob/huggie/web.html/)
