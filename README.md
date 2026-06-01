@@ -1,3 +1,4 @@
+<img width="7005" height="5679" alt="중리복지관" src="https://github.com/user-attachments/assets/9d88612c-3962-4694-a8f1-5a031c0b4afa" />
 #  [huggie42] 시니어 사용자를 위한 웹 접근성 대시보드
 
 > **대전광역시청 정책 주제 일환** - 중리종합사회복지관 인터뷰 데이터를 기반으로 한 프론트엔드 UI/UX 설계 및 프로토타입입니다.
@@ -25,4 +26,4 @@
 ---
 
 ## 🔗 4. 우리 함께 만나러 가요 (라이브 데모)
-- [ 실제 반응형 웹 프로필 확인하기](https://huggie42.github.io/042/)
+- [ 실제 반응형 웹 프로필 확인하기](https://huggie42.github.web.html/)
